@@ -1,0 +1,4 @@
+PyQt5==5.15.2
+requests==2.25.1
+setuptools==54.2.0
+translators==4.7.16
